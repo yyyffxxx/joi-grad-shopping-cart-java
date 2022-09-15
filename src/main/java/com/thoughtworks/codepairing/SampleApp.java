@@ -27,5 +27,6 @@ public class SampleApp {
         Order order = shoppingCart.checkout();
         System.out.println(order.toString());
         System.out.println();
+        System.out.println();
     }
 }
